@@ -1,0 +1,80 @@
+h1
+{
+    text-align:center;
+    color:#4285f4;
+    padding:20px;
+}
+
+table {
+    margin-top: 165px;
+    clear: both;
+    margin-left: 50px;
+    border: solid 1px black;
+    margin-right: 50px;
+}
+
+.contac_information {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.input_task_pre {
+    font-size: 22px;
+    float: left;
+    padding-left: 50px;
+}
+
+.input_task_text {
+    margin-top: 5px;
+    height: 30px;
+    width: 600px;
+    border: solid 1px black;
+}
+
+.input_task_image {
+    margin-top: 5px;
+    width: 30px;
+    height: 32px;
+    float: right;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    border-right: solid 1px black;
+    text-align: center;
+}
+
+
+.task_text_pre {
+    border: solid 1px black;
+    width: 1400px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.task_text_status_true {
+    border: solid 1px black;
+    width: 1400px;
+    font-size: 20px;
+    padding-left: 10px;
+    text-decoration: line-through;
+}
+
+.task_text_status_false {
+    border: solid 1px black;
+    width: 1400px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.task_status {
+    border: solid 1px black;
+    width: 80px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.task_checkbox {
+    width: 26px;
+    height: 26px;
+    text-align: center;
+    padding-top:5px;
+}
