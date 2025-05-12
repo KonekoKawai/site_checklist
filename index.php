@@ -6,7 +6,7 @@
     <meta name="author" content="KonekoKawai" />
     <title>Чек-лист</title>
     <link rel="stylesheet" type="text/css" href="styles.css" />
-
+    <link rel="icon" href="source/favicon.png" type="image/png">
 </head>
 
 <body>
