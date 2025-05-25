@@ -16,7 +16,7 @@
 
 <br />
 
-<h2>Вид сайта для версии .old</h2>
+<h2>Вид сайта для версии old</h2>
 <h2> 
 
   ![Example_Work](https://raw.githubusercontent.com/KonekoKawai/site_checklist/refs/heads/main/source/oldchecklist.jpg) 
